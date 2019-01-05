@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">NewsCrisp</string>
+    <string name="launched_first_time">first</string>
+    <string name="select_country">Select Country :</string>
+    <string name="welcome">Welcome To NewsCrisp! </string>
+    <string name="get_started">Get started</string>
+    <string name="settings">Settings</string>
+    <string name="save">save</string>
+    <string name="source">source</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="date">date</string>
+    <string-array name="country_codes">
+        <item>Argentina(ar)</item>
+        <item>Austria(at)</item>
+        <item>Australia(au)</item>
+        <item>Belgium(be)</item>
+        <item>Bulgaria(bg)</item>
+        <item>Brazil(br)</item>
+        <item>Canada(ca)</item>
+        <item>China(cn)</item>
+        <item>Colombia(co)</item>
+        <item>Cuba(cu)</item>
+        <item>Czech Republic(cz)</item>
+        <item>Egypt(eg)</item>
+        <item>France(fr)</item>
+        <item>Germany(de)</item>
+        <item>Greece(gr)</item>
+        <item>Hong Kong(hk)</item>
+        <item>Hungary(hu)</item>
+        <item>India(in)</item>
+        <item>Indonesia(id)</item>
+        <item>Ireland(ie)</item>
+        <item>Israel(il)</item>
+        <item>Italy(it)</item>
+        <item>Japan(jp)</item>
+        <item>Latvia(lv)</item>
+        <item>Lituania(lt)</item>
+        <item>Malaysia(my)</item>
+        <item>Mexico(mx)</item>
+        <item>Morocco(ma)</item>
+        <item>Netherlands(nl)</item>
+        <item>New Zealand(nz)</item>
+        <item>Nigeria(ng)</item>
+        <item>Norway(no)</item>
+        <item>Philippines(ph)</item>
+        <item>Poland(pl)</item>
+        <item>Russia(ru)</item>
+        <item>Saudi Arabia(sa)</item>
+        <item>Serbia(rs)</item>
+        <item>Singapore(sg)</item>
+        <item>Slovakia(sk)</item>
+        <item>Slovenia(si)</item>
+        <item>South Africa(za)</item>
+        <item>South Korea(kr)</item>
+        <item>Sweden(se)</item>
+        <item>Switzerland(ch)</item>
+        <item>Taiwan(tw)</item>
+        <item>Thailand(th)</item>
+        <item>Turkey(tr)</item>
+        <item>UAE(ae)</item>
+        <item>Ukraine(ua)</item>
+        <item>United Kingdom(gb)</item>
+        <item>United States(us)</item>
+        <item>Venezuela(ve)</item>
+    </string-array>
+    <string name="business">Business</string>
+    <string name="entertainment">"Entertainment</string>
+    <string name="health">Health</string>
+    <string name="general">General</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+</resources>
